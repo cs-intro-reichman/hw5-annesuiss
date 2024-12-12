@@ -120,7 +120,6 @@ public class Scrabble {
 			//// that completes the hand playing loop
 			//input user hand by command line argument. go throghout and check if it was used
 			// and then substring it/Anne
-			System.out.println("The input word is " + input);
 			if(input.equals(".")) {
 				break;
 			}
